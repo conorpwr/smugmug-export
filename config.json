@@ -1,0 +1,8 @@
+{
+	"oauth_access_token": "smugmug_api_token_goes_here",
+	"oauth_access_secret": "smugmug_api_secret_goes_here",
+	"smugmug_username_goes_here": {
+		"access_token": "oauth_access_token_for_user_goes_here",
+		"access_secret": "oauth_access_secret_for_user_goes_here"
+	}
+}
